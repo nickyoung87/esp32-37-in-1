@@ -1,4 +1,7 @@
 # Photoresistor
+
+**Part Number:** HW-486
+
 TODO: Description
 
 ## Purpose
