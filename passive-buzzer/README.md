@@ -1,0 +1,8 @@
+# Passive Buzzer
+TODO: Description
+
+## Purpose
+TODO
+
+## Wiring
+TODO
